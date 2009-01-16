@@ -1,0 +1,10 @@
+extlib-present
+==============
+
+A plugin for the Merb framework that provides Object#present?
+
+This plugin depends on extlib.
+
+USAGE:
+
+  object.present? #=> !object.blank?
